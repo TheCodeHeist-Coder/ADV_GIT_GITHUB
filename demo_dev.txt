@@ -3,7 +3,4 @@ i am learning revert in git and github
 this is fine
 
 
-this commit is not fine, okkkk.... (wrong, bug, isuue
-
-
 this commit is also fine)
