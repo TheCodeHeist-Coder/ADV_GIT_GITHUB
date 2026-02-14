@@ -1,12 +1,14 @@
+
 this is a demo file
 i am learning revert in git and github
 this is fine
-<<<<<<< HEAD
+
 
 
 this commit is not fine, okkkk.... (wrong, bug, isuue
 
 
 this commit is also fine)
-=======
->>>>>>> parent of 61e3e09 (added_wrong_commit)
+
+hey! my name is Rajkumar and what's your??
+
